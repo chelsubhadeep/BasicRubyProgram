@@ -1,0 +1,1 @@
+IO.foreach("prog_62_output.txt"){|b| puts b}
